@@ -34,8 +34,11 @@ You can read the relevant section of the Markua specification document [here](ht
 
 Here is a video with Peter explaining Markua, if you're interested in learning the back story:
 
+```
+// Added code block
 {type: video, poster: "http://img.youtube.com/vi/VOCYL-FNbr0/mqdefault.jpg"}
 ![Introducing Markua](https://www.youtube.com/watch?t=105&v=VOCYL-FNbr0)
+```
 
 ## Feedback
 
@@ -251,9 +254,6 @@ Watch this [video online](https://www.youtube.com/watch?time_continue=1&v=VOCYL-
 
 You can include images in a course just like you include images in a book.
 
-Here is an image of a cat named Marmalade and a dog named Tangerine:
-
-![Marmalade and Tangerine](marm-and-tangie.jpg)
 
 Here is an example of what you would type to include an image like this in your course:
 
